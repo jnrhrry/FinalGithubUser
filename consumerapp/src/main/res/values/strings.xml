@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_username">Search by Username</string>
+    <string name="search_button">Search Button</string>
+    <string name="username">Username</string>
+    <string name="full_name">Full Name</string>
+    <string name="no_followers">User Not Followed By Anyone</string>
+    <string name="user_did_not_following_anyone">User Did Not Following Anyone</string>
+    <string name="alarm">Turn on Alarm at 9.00 AM?</string>
+    <string name="why_not">Why Not?</string>
+    <string name="not_today">Not Today.</string>
+    <string name="removing_user_from_favourite_page">Removing User From Favourite Page</string>
+    <string name="location">Location</string>
+    <string name="follow_and_repo">Followers, Following And Repository</string>
+    <string name="company">Company</string>
+    <string name="change_language">Language Setting</string>
+    <string name="alarm_setting">Alarm Setting</string>
+    <string name="favourite">Favourite</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="add_to_favourite">Add Favourite User</string>
+    <string name="add_to_favourite_text">Do you want to add them to your Favourite User list?</string>
+    <string name="added_to_favourite">Okay, they are already added tp your Favourite User list.</string>
+    <string name="add_to_favourite_already_exist">They are already on the list, Mate!</string>
+    <string name="add_to_favourite_unable">Sorry, Mate! Something went wrong.</string>
+    <string name="not_now">Not Now</string>
+    <string name="notification_title">Hello, Fellas!!</string>
+    <string name="notification_message">Been a while since the last time you open the app. Go on check and find something new, alright?! :D </string>
+    <string name="alarm_active">There it is, alarm repeater is activated, Sir!</string>
+    <string name="alarm_cancelled">There you go, Capt. Alarm repeater deactivated!</string>
+    <string name="favourite_removed">Alright, $s deleted from your list!</string>
+    <string name="favourite_page">Favourite</string>
+    <string name="favourite_page_error">Sorry, Mate! We\'re unable to load the list. :(</string>
+    <string name="search_bar_empty">Hmmm… The field is empty.</string>
+    <string name="follow_repo">Followers: %d Following: %d Repository %d</string>
+    <string name="main_text">Looking for someone?</string>
+
+</resources>
